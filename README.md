@@ -1,12 +1,12 @@
 # NLP_Assignement
 A Multiscale Visualization of Attention in the Transformer Model
 
-Project made by
+Project made by :
 
-BAMOUH Mohamed
+-BAMOUH Mohamed
 
-KERAGHEL Imed
+-KERAGHEL Imed
 
-HEBROUNE Oussama
+-HEBROUNE Oussama
 
-BOUAYAD Ghita
+-BOUAYAD Ghita
